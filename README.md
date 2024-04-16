@@ -9,6 +9,7 @@
 ***
 
 #### My current Technical Skills:
+- ![ASP.NETCore](https://custom-icon-badges.herokuapp.com/badge/ASP.NET_Core-black.svg?logo=asp.netcore&logoColor=white&style=flat-square)
 - [![C#](https://custom-icon-badges.herokuapp.com/badge/C_Sharp-black.svg?logo=csharpp&logoColor=white&style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-black.svg?logo=java&logoColor=white&style=flat-square)
 
